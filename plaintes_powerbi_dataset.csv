@@ -1,0 +1,201 @@
+id,date,region,produit,statut,delai_traitement
+1,2025-02-17,Gatineau,Prêt,Traité,14
+2,2025-01-30,Laval,Dette,En cours,9
+3,2025-03-23,Gatineau,Banque,En cours,10
+4,2025-03-27,Montréal,Prêt,Traité,11
+5,2025-01-06,Laval,Crédit,En cours,16
+6,2025-02-18,Québec,Crédit,En cours,10
+7,2025-01-25,Montréal,Crédit,Traité,4
+8,2025-01-15,Montréal,Crédit,Traité,3
+9,2025-03-08,Laval,Banque,En cours,6
+10,2025-01-29,Gatineau,Prêt,En cours,13
+11,2025-03-10,Laval,Dette,En cours,7
+12,2025-02-22,Gatineau,Dette,Traité,14
+13,2025-01-10,Gatineau,Prêt,Traité,20
+14,2025-01-27,Gatineau,Prêt,Traité,9
+15,2025-03-05,Laval,Crédit,Traité,9
+16,2025-02-07,Québec,Dette,Traité,15
+17,2025-03-15,Québec,Dette,Traité,11
+18,2025-03-12,Montréal,Prêt,En cours,19
+19,2025-02-27,Laval,Banque,Traité,19
+20,2025-01-24,Montréal,Crédit,Traité,14
+21,2025-01-12,Laval,Banque,Traité,17
+22,2025-03-24,Laval,Prêt,Traité,2
+23,2025-03-17,Montréal,Prêt,En cours,9
+24,2025-02-14,Laval,Prêt,En cours,20
+25,2025-02-27,Québec,Crédit,En cours,16
+26,2025-03-18,Laval,Crédit,En cours,1
+27,2025-02-11,Montréal,Prêt,En cours,9
+28,2025-03-22,Gatineau,Prêt,En cours,7
+29,2025-01-26,Laval,Dette,Traité,14
+30,2025-01-23,Montréal,Prêt,En cours,10
+31,2025-02-18,Québec,Prêt,En cours,1
+32,2025-03-17,Montréal,Banque,Traité,17
+33,2025-01-02,Montréal,Crédit,En cours,18
+34,2025-02-14,Gatineau,Crédit,Traité,12
+35,2025-02-15,Québec,Crédit,En cours,12
+36,2025-03-25,Laval,Dette,Traité,19
+37,2025-03-13,Gatineau,Dette,En cours,9
+38,2025-03-08,Montréal,Crédit,Traité,15
+39,2025-01-09,Laval,Dette,Traité,4
+40,2025-03-23,Gatineau,Crédit,Traité,8
+41,2025-02-14,Montréal,Prêt,En cours,8
+42,2025-02-06,Gatineau,Dette,En cours,9
+43,2025-02-15,Gatineau,Crédit,En cours,8
+44,2025-02-12,Québec,Dette,En cours,9
+45,2025-02-03,Montréal,Prêt,En cours,13
+46,2025-01-15,Laval,Prêt,Traité,9
+47,2025-03-02,Laval,Banque,En cours,8
+48,2025-03-19,Laval,Banque,Traité,16
+49,2025-03-23,Laval,Crédit,Traité,10
+50,2025-02-18,Laval,Prêt,Traité,13
+51,2025-03-31,Montréal,Prêt,En cours,4
+52,2025-02-04,Gatineau,Banque,Traité,16
+53,2025-01-18,Laval,Prêt,En cours,12
+54,2025-02-18,Gatineau,Crédit,Traité,9
+55,2025-01-18,Gatineau,Crédit,En cours,18
+56,2025-02-19,Laval,Crédit,Traité,5
+57,2025-03-29,Laval,Banque,En cours,17
+58,2025-01-09,Québec,Crédit,En cours,18
+59,2025-01-11,Laval,Crédit,Traité,6
+60,2025-01-16,Montréal,Crédit,En cours,11
+61,2025-02-06,Gatineau,Dette,En cours,9
+62,2025-01-07,Montréal,Banque,Traité,3
+63,2025-02-25,Laval,Dette,Traité,1
+64,2025-01-22,Gatineau,Crédit,En cours,15
+65,2025-03-02,Montréal,Dette,Traité,19
+66,2025-01-12,Montréal,Prêt,Traité,6
+67,2025-02-26,Québec,Crédit,Traité,12
+68,2025-03-20,Montréal,Dette,Traité,20
+69,2025-03-01,Gatineau,Prêt,Traité,13
+70,2025-03-09,Québec,Banque,En cours,19
+71,2025-03-08,Gatineau,Crédit,Traité,3
+72,2025-01-18,Montréal,Dette,Traité,10
+73,2025-02-05,Montréal,Banque,Traité,11
+74,2025-03-31,Québec,Crédit,Traité,17
+75,2025-01-15,Québec,Prêt,Traité,14
+76,2025-02-12,Gatineau,Prêt,Traité,1
+77,2025-03-31,Québec,Crédit,Traité,10
+78,2025-01-21,Montréal,Dette,Traité,12
+79,2025-01-05,Laval,Banque,En cours,7
+80,2025-01-02,Montréal,Crédit,Traité,5
+81,2025-01-28,Québec,Dette,Traité,8
+82,2025-02-20,Gatineau,Banque,En cours,17
+83,2025-03-25,Montréal,Dette,En cours,16
+84,2025-03-10,Laval,Banque,En cours,3
+85,2025-01-15,Laval,Prêt,Traité,12
+86,2025-02-12,Gatineau,Banque,En cours,10
+87,2025-03-17,Québec,Crédit,Traité,11
+88,2025-03-03,Québec,Banque,Traité,15
+89,2025-02-14,Montréal,Banque,Traité,4
+90,2025-01-10,Laval,Crédit,Traité,18
+91,2025-02-04,Québec,Dette,Traité,2
+92,2025-02-16,Gatineau,Banque,Traité,1
+93,2025-02-11,Laval,Banque,Traité,18
+94,2025-03-30,Montréal,Dette,En cours,7
+95,2025-01-03,Laval,Prêt,En cours,20
+96,2025-03-01,Laval,Dette,En cours,5
+97,2025-01-19,Québec,Prêt,Traité,11
+98,2025-02-10,Gatineau,Crédit,En cours,18
+99,2025-01-11,Montréal,Crédit,Traité,19
+100,2025-03-26,Laval,Dette,Traité,19
+101,2025-02-09,Québec,Banque,En cours,3
+102,2025-02-01,Laval,Dette,En cours,2
+103,2025-03-12,Gatineau,Crédit,Traité,1
+104,2025-02-26,Laval,Banque,Traité,1
+105,2025-01-08,Québec,Prêt,Traité,14
+106,2025-01-01,Gatineau,Crédit,En cours,10
+107,2025-02-22,Montréal,Dette,En cours,17
+108,2025-02-14,Laval,Dette,Traité,18
+109,2025-01-03,Montréal,Banque,En cours,16
+110,2025-01-01,Gatineau,Crédit,Traité,19
+111,2025-03-11,Québec,Crédit,Traité,9
+112,2025-03-17,Montréal,Dette,En cours,5
+113,2025-03-31,Montréal,Crédit,Traité,19
+114,2025-01-28,Gatineau,Banque,Traité,14
+115,2025-03-04,Montréal,Prêt,En cours,16
+116,2025-02-27,Laval,Banque,Traité,19
+117,2025-01-31,Montréal,Dette,Traité,7
+118,2025-03-01,Montréal,Dette,En cours,15
+119,2025-02-07,Gatineau,Dette,Traité,16
+120,2025-01-13,Montréal,Dette,Traité,4
+121,2025-02-22,Montréal,Banque,Traité,13
+122,2025-02-02,Québec,Banque,En cours,10
+123,2025-02-06,Québec,Banque,En cours,5
+124,2025-01-01,Québec,Dette,Traité,9
+125,2025-02-16,Gatineau,Banque,Traité,19
+126,2025-02-23,Laval,Banque,Traité,6
+127,2025-03-15,Québec,Dette,En cours,12
+128,2025-01-04,Laval,Banque,Traité,2
+129,2025-01-09,Québec,Crédit,Traité,1
+130,2025-03-29,Laval,Banque,Traité,2
+131,2025-02-10,Gatineau,Crédit,Traité,5
+132,2025-01-10,Québec,Dette,Traité,9
+133,2025-01-02,Québec,Banque,En cours,7
+134,2025-01-08,Laval,Prêt,En cours,18
+135,2025-03-04,Gatineau,Banque,En cours,12
+136,2025-01-14,Gatineau,Dette,Traité,19
+137,2025-01-19,Montréal,Banque,En cours,5
+138,2025-01-19,Laval,Crédit,Traité,17
+139,2025-03-12,Laval,Crédit,Traité,13
+140,2025-03-18,Laval,Banque,Traité,2
+141,2025-03-25,Québec,Banque,En cours,3
+142,2025-01-14,Montréal,Banque,Traité,3
+143,2025-01-16,Gatineau,Dette,Traité,11
+144,2025-02-27,Gatineau,Prêt,Traité,7
+145,2025-01-23,Québec,Banque,Traité,15
+146,2025-02-02,Québec,Dette,En cours,13
+147,2025-03-07,Gatineau,Banque,En cours,7
+148,2025-02-18,Montréal,Crédit,Traité,10
+149,2025-03-30,Québec,Crédit,Traité,15
+150,2025-01-04,Gatineau,Crédit,En cours,17
+151,2025-01-14,Québec,Crédit,Traité,20
+152,2025-01-11,Montréal,Prêt,Traité,19
+153,2025-01-03,Laval,Crédit,En cours,7
+154,2025-02-13,Montréal,Prêt,En cours,4
+155,2025-02-27,Québec,Crédit,Traité,16
+156,2025-01-07,Québec,Crédit,En cours,12
+157,2025-02-28,Laval,Prêt,En cours,1
+158,2025-01-13,Québec,Banque,Traité,19
+159,2025-02-20,Montréal,Crédit,Traité,2
+160,2025-03-25,Gatineau,Banque,En cours,3
+161,2025-03-07,Québec,Crédit,Traité,3
+162,2025-01-01,Laval,Prêt,En cours,4
+163,2025-02-25,Laval,Prêt,En cours,2
+164,2025-03-12,Laval,Banque,Traité,16
+165,2025-02-11,Laval,Prêt,En cours,9
+166,2025-01-04,Gatineau,Dette,En cours,17
+167,2025-02-18,Gatineau,Dette,En cours,13
+168,2025-03-16,Québec,Dette,En cours,7
+169,2025-03-23,Montréal,Crédit,En cours,11
+170,2025-02-09,Laval,Crédit,Traité,9
+171,2025-01-13,Québec,Dette,Traité,1
+172,2025-02-22,Montréal,Banque,Traité,17
+173,2025-03-21,Laval,Prêt,En cours,9
+174,2025-01-15,Montréal,Dette,Traité,18
+175,2025-02-05,Gatineau,Banque,Traité,11
+176,2025-01-19,Laval,Banque,En cours,12
+177,2025-03-02,Gatineau,Dette,Traité,7
+178,2025-02-17,Montréal,Crédit,En cours,10
+179,2025-02-18,Québec,Dette,En cours,17
+180,2025-02-25,Gatineau,Banque,En cours,5
+181,2025-03-12,Montréal,Banque,En cours,18
+182,2025-01-14,Montréal,Crédit,En cours,2
+183,2025-01-13,Gatineau,Dette,Traité,18
+184,2025-02-19,Montréal,Prêt,En cours,2
+185,2025-03-07,Québec,Dette,En cours,18
+186,2025-01-17,Montréal,Dette,En cours,2
+187,2025-01-05,Laval,Prêt,En cours,18
+188,2025-03-15,Laval,Banque,En cours,11
+189,2025-02-07,Montréal,Banque,Traité,12
+190,2025-03-29,Québec,Prêt,Traité,6
+191,2025-03-10,Montréal,Dette,En cours,12
+192,2025-02-06,Gatineau,Banque,Traité,3
+193,2025-03-29,Gatineau,Banque,Traité,9
+194,2025-03-20,Montréal,Banque,Traité,16
+195,2025-02-03,Gatineau,Dette,Traité,5
+196,2025-03-21,Montréal,Dette,En cours,10
+197,2025-01-12,Montréal,Crédit,En cours,12
+198,2025-03-10,Montréal,Banque,En cours,15
+199,2025-01-30,Laval,Banque,En cours,11
+200,2025-01-16,Gatineau,Dette,Traité,18
